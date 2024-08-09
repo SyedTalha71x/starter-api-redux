@@ -1,0 +1,16 @@
+.btn {
+
+  margin-top: 5%;
+  background-color: rgb(16, 115, 214);
+  color: white;
+  padding: 10px 30px;
+  border-radius: 5%;
+  border: none;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
